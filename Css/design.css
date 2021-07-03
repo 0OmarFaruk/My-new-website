@@ -6,3 +6,31 @@ h1{
     text-align: center;
     padding: 50px;
 }
+.info{
+    color: darkslateblue;
+    background-color: cornsilk;
+    margin: 20px;
+    padding: 20px;
+    
+}
+#omar{
+    color: deepskyblue;
+    background-color: floralwhite;
+}
+h2{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    margin-left:500px ;
+    margin-right: 500px;
+    padding: 10px;
+
+}
+.history{
+    color: rgb(8, 41, 41);
+    background-color: bisque;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+    
+}
